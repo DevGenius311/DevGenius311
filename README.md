@@ -44,7 +44,7 @@ Committed to leveraging cutting-edge technologies to create user-centered, innov
         <div align="center">
             <div align="center">
                 <img src="https://github-profile-trophy.vercel.app/?username=ken-b4u&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser" />
-                <img src="https://github-profile-trophy.vercel.app/?username=DevGenius311&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Followers,Organizations" />
+                <img src="https://github-profile-trophy.vercel.app/?username=Phoenix-Genius&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Followers,Organizations" />
             </div>
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=Phoenix-Genius&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Commits,PullRequest,Repositories,Issues,Stars,Reviews" />
         </div>
