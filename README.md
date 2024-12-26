@@ -21,15 +21,16 @@
         src="./assets/Right_Side.gif" />
         <img align="right"
         src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;8+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
-        <h3 align="left">As a hardworking developer with 8 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.</h3>
-        <h3 align="left">Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.</h3>
-        <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
+        <h3 align="left">Senior Game Developer with 6 years of hands-on expertise in designing, developing, and optimizing interactive video games across multiple platforms. Proficient in utilizing Unity and Unreal Engine to deliver immersive, high-quality gaming experiences. </h3>
+        <h3 align="left">Led cross-functional teams through all stages of game development, from concept to launch, focusing on coding, testing, and performance optimization. Proficient in C++ and C#, with deep knowledge of game mechanics, AI programming, and performance tuning. Delivered over 10 successful game titles, increasing user engagement by 30% at previous employers. </h3>
+        <h3 align="left">Worked closely with artists, designers, and QA teams to ensure seamless integration of gameplay features. 
+Committed to leveraging cutting-edge technologies to create user-centered, innovative gaming experiences.</h3>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </p>
     <p>
         <h1>🌠Technologies☄</h1>
         <div align="center">
-            <img src="https://skillicons.dev/icons?i=ts,js,nodejs,angular,react,nuxt,next,express,vue,laravel,php,wordpress,css,html,figma,python,django,flask,fastapi,cpp,qt,dotnet,androidstudio,flutter,java,go,,,docker,postgresql,mysql,mongodb,firebase,postman,cloudflare,aws,azure&perline=13"/>
+            <img src="https://skillicons.dev/icons?i=unity, unrealengine, aws&perline=13"/>
         </div>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </p>
@@ -43,16 +44,16 @@
         <div align="center">
             <div align="center">
                 <img src="https://github-profile-trophy.vercel.app/?username=ken-b4u&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser" />
-                <img src="https://github-profile-trophy.vercel.app/?username=DevGenius311&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Followers,Organizations" />
+                <img src="https://github-profile-trophy.vercel.app/?username=Phoenix-Genius&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Followers,Organizations" />
             </div>
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=DevGenius311&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Commits,PullRequest,Repositories,Issues,Stars,Reviews" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=Phoenix-Genius&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Commits,PullRequest,Repositories,Issues,Stars,Reviews" />
         </div>
         <div align="center">  
-            <img  align="right" height="380px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGenius311&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
+            <img  align="right" height="380px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-Genius&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
             <div align="left">
-                <img height="195px" width="55%" src="https://github-readme-stats.vercel.app/api?username=DevGenius311&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
-<!--                 <img height="195px" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevGenius311&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> -->
-<!--                 ![DevGenius311 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=DevGenius311) -->
+                <img height="195px" width="55%" src="https://github-readme-stats.vercel.app/api?username=Phoenix-Genius&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
+<!--                 <img height="195px" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix-Genius&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> -->
+<!--                 ![Phoenix-Genius github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Phoenix-Genius) -->
             </div>
              <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         </div>
@@ -60,13 +61,13 @@
             <img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center">
             <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
                 <p align="center">💖 Visited Counts 💖<br><br> <img
-                        src="https://profile-counter.glitch.me/DevGenius311/count.svg" />
+                        src="https://profile-counter.glitch.me/Phoenix-Genius/count.svg" />
                 </p>
             </a>
         </div>
         <div>
             <h2 align="center">
-                <a href="https://github.com/DevGenius311?tab=repositories">Star My Repos(It need only 2 clicks)</a>
+                <a href="https://github.com/Phoenix-Genius?tab=repositories">Star My Repos(It need only 2 clicks)</a>
             </h2>
         </div>
     </div>
