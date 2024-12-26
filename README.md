@@ -20,7 +20,7 @@
         <img align="right" style="width:500px; height:400px;" 
         src="./assets/Right_Side.gif" />
         <img align="right"
-        src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;8+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
+        src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Game%20Web%20Developer;6+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
         <h3 align="left">Senior Game Developer with 6 years of hands-on expertise in designing, developing, and optimizing interactive video games across multiple platforms. Proficient in utilizing Unity and Unreal Engine to deliver immersive, high-quality gaming experiences. </h3>
         <h3 align="left">Led cross-functional teams through all stages of game development, from concept to launch, focusing on coding, testing, and performance optimization. Proficient in C++ and C#, with deep knowledge of game mechanics, AI programming, and performance tuning. Delivered over 10 successful game titles, increasing user engagement by 30% at previous employers. </h3>
         <h3 align="left">Worked closely with artists, designers, and QA teams to ensure seamless integration of gameplay features. 
