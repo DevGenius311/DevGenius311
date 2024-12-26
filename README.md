@@ -27,7 +27,7 @@
 Committed to leveraging cutting-edge technologies to create user-centered, innovative gaming experiences.</h3>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </p>
-    <p>Fgit
+    <p>
         <h1>🌠Technologies☄</h1>
         <div align="center">
             <img src="https://skillicons.dev/icons?i=unity,unreal,aws,anaconda,blender,c,cs,cpp,cmake,discord,dotnet,git,linkedin,lua,opencv,tensorflow,threejs,ubuntu,windows&perline=13"/>
