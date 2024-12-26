@@ -58,7 +58,7 @@ Committed to leveraging cutting-edge technologies to create user-centered, innov
              <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         </div>
         <div>
-            <img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center">
+<!--             <img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center"> -->
             <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
                 <p align="center">💖 Visited Counts 💖<br><br> <img
                         src="https://profile-counter.glitch.me/DevGenius311/count.svg" />
